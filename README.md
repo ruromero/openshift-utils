@@ -1,4 +1,5 @@
 # openshift-utils
+## Jenkins local slaves
 Only works for OpenShift 3.6 (or Origin 1.6)
 1. Create two imagestreams (see attachments) one for maven, one for nodejs
  
